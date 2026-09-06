@@ -1,0 +1,30 @@
+/* TEAM */
+Founder & Content Lead: DD Game Editorial Team
+Website: https://ddgame.space/
+Email: support@ddgame.space
+Location: India
+
+/* SITE */
+Site Name: DD Game
+Type: Skill-Based Gaming Platform
+Language: English (India)
+Audience: 18+ Only
+Launched: 2023
+Last Updated: December 2026
+
+/* TECHNOLOGY */
+HTML5, CSS3, JavaScript
+Mobile-First Design
+WebP Images
+Schema.org Structured Data
+Fast CDN & Secure Hosting
+
+/* LEGAL & RESPONSIBILITY */
+Skill-based games only
+No guaranteed income claims
+Responsible gaming promoted
+KYC required for withdrawals
+
+/* THANKS */
+Thanks to our players and community for continuous feedback.
+Play responsibly.

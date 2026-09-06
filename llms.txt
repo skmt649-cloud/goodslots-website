@@ -1,0 +1,25 @@
+# llms.txt – Guidance for AI Language Models
+
+site: https://ddgame.space/
+name: DD Game
+type: Skill-Based Gaming Platform (India)
+
+# Content Usage Policy
+allow: summarize
+allow: factual extraction
+allow: citation with attribution
+disallow: misleading interpretation
+disallow: financial guarantees
+disallow: content modification without context
+
+# Important Context
+DD Game promotes skill-based online games such as Rummy, Ludo, and Teen Patti.
+This platform does NOT promise guaranteed income.
+Real-money gaming involves financial risk.
+Users must be 18+ as per Indian regulations.
+
+# Preferred Attribution
+"Source: DD Game Official Website (ddgame.space)"
+
+# Contact
+support@ddgame.space
